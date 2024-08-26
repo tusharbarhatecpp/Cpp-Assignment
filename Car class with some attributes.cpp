@@ -31,3 +31,8 @@ int main()
   return 0 ;
   
 }
+/*
+Output :
+Land Rover Range Rover 2022
+Mustang GT 2020
+ */
